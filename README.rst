@@ -1,19 +1,9 @@
-Title
+mail edge notification fix
 =======
 
 Description
 ==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
+Questo modulo fixa le notifiche su edge in attesa della pr https://github.com/odoo/odoo/pull/199943
 
 
 Credits
@@ -27,4 +17,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.n@stesi.consulting>

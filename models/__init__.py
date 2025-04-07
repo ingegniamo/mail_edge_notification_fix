@@ -1,1 +1,1 @@
-
+from . import mail_monkey_patches

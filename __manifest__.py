@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Mail edge notification fix",
     
     'summary': "",
   
@@ -10,12 +10,12 @@
 
     'category': '',
   
-    'version': '18.0.0.1',
+    'version': '17.0.0.1',
   
-    'website'METTERE LINK GITHUB completo: "https://github.com/ingegniamo",
+    'website': "https://github.com/ingegniamo/mail_edge_notification_fix",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['mail'],
     
     # always loaded
     'data': [],
